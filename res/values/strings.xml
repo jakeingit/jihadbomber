@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Garrys Mod Jihadbomber</string>
+    <string name="action_settings">Do not use in public</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button">Pester</string>
+	<string name="button2">Jihad</string>	
+</resources>
